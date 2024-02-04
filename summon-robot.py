@@ -3,7 +3,7 @@
 # This function takes a button colour as input and returns the corresponding robot name.
 def summon_bot(button_colour):
     if button_colour == 'Gold':
-        return 'C3P0'  # If the button colour is Gold, return 'C3PO'
+        return 'C3PO'  # If the button colour is Gold, return 'C3PO'
     elif button_colour == 'Blue':
         return 'R2D2'  # If the button colour is Blue, return 'R2D2'
 
