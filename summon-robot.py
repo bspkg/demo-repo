@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# This function takes a button colour as input and returns the corresponding robot name.
+# This function takes as input the colour of the button pressed and returns the corresponding robot name on the display terminal.
 def summon_bot(button_colour):
     if button_colour == 'Gold':
         return 'C3PO'  # If the button colour is Gold, return 'C3PO'
