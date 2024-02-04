@@ -26,4 +26,4 @@ def test_summon_bot():
     assert summon_bot('Red') == 'Unknown'  # Expected result: 'Unknown'
     assert summon_bot('Green') == 'Unknown'  # Expected result: 'Unknown'
 
-summon_bot()
+test_summon_bot()
